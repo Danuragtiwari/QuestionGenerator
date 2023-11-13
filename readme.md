@@ -65,4 +65,4 @@ There is a `questionStore.js` file in the root/src directory, which contains sam
 
 
 <pre><div class="bg-black rounded-md"><div class="flex items-center relative text-gray-200 bg-gray-800 gizmo:dark:bg-token-surface-primary px-4 py-2 text-xs font-sans justify-between rounded-t-md"><span>Last but not Least!</span></div><div class="p-4 overflow-y-auto"><code class="!whitespace-pre hljs language-vbnet">
-Again, make sure to replace '<repository-url>' with the actual URL of your GitHub </code></div></div></pre>
+Again, make sure to replace `<repository-url>` with the actual URL of your GitHub </code></div></div></pre>
